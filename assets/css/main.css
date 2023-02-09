@@ -2562,6 +2562,7 @@ input, select, textarea {
 /* Image */
 
 	.image {
+		display:flex;
 		border-radius: 0.25em;
 		border: 0;
 		display: inline-block;
